@@ -307,24 +307,6 @@ def veri_yukle():
 - Ağır analizler sadece butona basınca çalışır
 - Gereksiz hesaplama yok
 
----
-
-## 🎓 Öğrenme Hedefleri - Karşılama Durumu
-
-| Hedef | Durum | Nasıl Karşılandı |
-|-------|-------|------------------|
-| Market Basket Analysis nedir? | ✅ | Ana sayfa teorik açıklama |
-| Support, Confidence, Lift | ✅ | Her sayfada hesaplama ve görselleştirme |
-| Birliktelik bulma | ✅ | 2'li ve 3'lü analiz modülleri |
-| Association Rules | ✅ | Gelişmiş kural analizi + scatter plot |
-| Sonuç yorumlama | ✅ | Her analiz için iş önerileri |
-| **İLERİ SEVİYE** |
-| Network analizi | ✅ | NetworkX ile görsel ağ grafiği |
-| Segmentasyon | ✅ | Sepet büyüklüğü bazlı analiz |
-| Negatif ilişkiler | ✅ | Lift < 1 analizi |
-| Akıllı öneri sistemi | ✅ | Multi-source skorlama |
-
----
 
 ## 🚀 Nasıl Çalıştırılır?
 
