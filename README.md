@@ -105,22 +105,6 @@ Tarayıcınızda açılan sayfada:
 - Birlikte alınan ürünlerin stoklarını birlikte planlayın
 - Milk bitiyorsa chocolate da bitebilir
 
-## 🎓 Öğrenci Egzersizleri
-
-### Seviye 1: Başlangıç
-1. En popüler 5 ürünü bulun
-2. En az popüler 5 ürünü bulun
-3. Ortalama sepet büyüklüğünü hesaplayın
-
-### Seviye 2: Orta
-1. Support > %10 olan ürün çiftlerini bulun
-2. Confidence > %50 olan kuralları listeleyin
-3. Lift > 1.5 olan birliktelikleri analiz edin
-
-### Seviye 3: İleri
-1. Farklı support/confidence threshold'ları deneyin
-2. 3'lü ürün kombinasyonlarını araştırın
-3. Özel ürün önerisi algoritması geliştirin
 
 ## 📊 Beklenen Çıktılar
 
@@ -192,34 +176,4 @@ streamlit run basit_streamlit_app.py
 ### Problem: Grafikler görünmüyor
 **Çözüm**: Plotly ve matplotlib yüklü olduğundan emin olun
 
-## 📚 Ek Kaynaklar
 
-- [Market Basket Analysis Nedir? (Türkçe)](https://example.com)
-- [Association Rules Tutorial](https://example.com)
-- [Streamlit Dokümantasyonu](https://docs.streamlit.io)
-
-## 👨‍🏫 Eğitmenler İçin Notlar
-
-### Ders Planı (2 saat)
-1. **0-30 dk**: Teorik anlatım (Support, Confidence, Lift)
-2. **30-60 dk**: Konsol uygulaması ile hands-on
-3. **60-90 dk**: Web arayüzü ile etkileşimli analiz
-4. **90-120 dk**: Öğrenci egzersizleri ve grup çalışması
-
-### Değerlendirme Kriterleri
-- Market Basket Analysis kavramlarını anlama
-- Support/Confidence/Lift hesaplama
-- Sonuçları doğru yorumlama
-- İş uygulamalarını kavrama
-
-### Ekstra Aktiviteler
-- Farklı sector verisiyle analiz (online retail, e-commerce)
-- Kendi veri seti oluşturma
-- Gerçek business case çalışması
-
----
-
-📧 **İletişim**: Bu proje hakkında sorularınız için...
-🎓 **Seviye**: Başlangıç-Orta seviye veri bilimi öğrencileri
-⏱️ **Süre**: 2-3 saat
-🎯 **Hedef**: Market Basket Analysis temellerini öğrenmek
